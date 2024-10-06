@@ -1,7 +1,7 @@
 # Predicting Used Car Prices
 
 <div align="center">
-    <img width="383" alt="image" src="https://github.com/NRUTHVIIK1396/Used-Car-Prices-Prediction/assets/166747739/3232c789-a433-4040-8b06-5dc28f672c45">
+    <img width="383" alt="image" src="https://github.com/NRUTHVIIK1396/Predictive-pricing-for-used-cars/blob/main/images/kurt.jpeg">
 </div>
 
 ### Project Overview and Introduction
@@ -11,7 +11,7 @@ In the competitive landscape of the used car market, precise pricing plays a vit
 This project follows the CRISP-DM (Cross-Industry Standard Process for Data Mining) framework, a widely recognized methodology that offers a structured and systematic approach to data analysis. The CRISP-DM process is divided into six key phases: Business Understanding, Data Understanding, Data Preparation, Modeling, Evaluation, and Deployment, ensuring a comprehensive and efficient progression throughout the project.
 
 <div align="center">
-    <img width="354" alt="image" src="https://github.com/NRUTHVIIK1396/Used-Car-Prices-Prediction/assets/166747739/44324b12-be65-4c2e-9092-09f5f9bc83a5">
+    <img width="354" alt="image" src="https://github.com/NRUTHVIIK1396/Predictive-pricing-for-used-cars/blob/main/images/crisp.png">
 </div>
 
 
@@ -222,4 +222,4 @@ By applying these strategies, the business can strengthen its competitive positi
 - <code>README.md</code>: Summary of findings and link to notebook
 
 ## Notebook
-The detailed analysis and code can be found in the Jupyter notebook <a href="https://github.com/NRUTHVIIK1396/used-car-price-prediction/blob/main/notebooks/used-car-price-prediction.ipynb">here</a>.
+The detailed analysis and code can be found in the Jupyter notebook <a href="https://github.com/NRUTHVIIK1396/Predictive-pricing-for-used-cars/blob/main/notebooks/used_car_predictive_pricing.ipynb">here</a>.
